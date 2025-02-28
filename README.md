@@ -1,2 +1,2 @@
 # algorithms
-This repository contains all sort of algorithms and data structures as well as data analysis and ML code
+This repository contains all sort of algorithms and data structures as well as data analysis and electronics
